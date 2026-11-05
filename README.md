@@ -1,6 +1,6 @@
 # Always Grayscale
 
-A KernelSU / SukiSU Ultra / Magisk / APatch module that keeps your screen black and white on every boot, so your phone is less distracting.
+A KernelSU / SukiSU Ultra / Magisk / APatch module that keeps your screen black and white on every boot, so your phone is less distracting. I mainly made it to reduce my own screentime and worked cause it's not fun to watch black and white screen all day.
 
 ## How it works
 - Uses Android's built-in color correction (grayscale) setting.
